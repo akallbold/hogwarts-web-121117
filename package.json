@@ -8,7 +8,8 @@
     "react": "^15.6.2",
     "react-dom": "^15.6.2",
     "semantic-ui-css": "^2.2.11",
-    "semantic-ui-react": "^0.74.2"
+    "semantic-ui-react": "^0.74.2",
+    "to-snake-case": "^1.0.0"
   },
   "devDependencies": {
     "autoprefixer": "7.1.0",
